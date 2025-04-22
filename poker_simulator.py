@@ -2,15 +2,6 @@
 """
 Text‑based Texas Hold’em Simulator – COMPLETE & RUNNABLE
 =======================================================
-Run examples
-------------
-```bash
-python poker_simulator.py           # fully interactive
-python poker_simulator.py -a        # auto decisions
-python poker_simulator.py -a -n 3   # play 3 auto hands then quit
-python poker_simulator.py --sims 2000  # use 2k Monte‑Carlo sims
-```
-
 """
 
 from __future__ import annotations
